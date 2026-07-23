@@ -36,5 +36,13 @@ includes/db_connect.php
 4. Add your database credentials.
 
 ## Developer
+## Developer
 
-Developed by aiman Wazir
+Developed by **Aiman Wazir**
+
+Role:
+Full Stack Developer
+
+Technologies:
+PHP | MySQL | HTML | CSS | JavaScript
+
