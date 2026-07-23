@@ -2,6 +2,18 @@
 
 A web-based Police Station Management System developed using PHP and MySQL.
 
+## Screenshots
+### Login Page
+<img src="assets/screenshots/login.png" width="800">
+
+### Dashboard
+<img src="assets/screenshots/dashboard.png" width="800">
+
+### ADD CASE
+<img src="assets/screenshots/add_case.png" width="800">
+
+### view case
+<img src="assets/screenshots/view_cases.png" width="800">
 ## Features
 
 - Admin authentication
