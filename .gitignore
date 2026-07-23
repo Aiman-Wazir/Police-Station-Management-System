@@ -1,0 +1,32 @@
+# User uploaded files / evidence images
+uploads/*
+!uploads/.gitkeep
+
+# Database backup (especially real client data)
+*.sql
+
+# Environment secrets
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Archives
+*.zip
+*.rar
+
+# Dependencies
+vendor/
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+includes/db_connect.php
