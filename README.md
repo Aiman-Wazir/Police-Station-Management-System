@@ -13,7 +13,7 @@ A web-based Police Station Management System developed using PHP and MySQL.
 <img src="assets/screenshots/add_case.png" width="800">
 
 ### view case
-<img src="assets/screenshots/view_cases.png" width="800">
+<img src="assets/screenshots/view_case.png" width="800">
 ## Features
 
 - Admin authentication
